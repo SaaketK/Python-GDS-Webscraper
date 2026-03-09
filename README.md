@@ -1,6 +1,6 @@
 # Dine On Campus Menu Scraper
 
-A Python Script to fetch specific meal menus for the Highlander Commons dining hall. It interacts with the Dine On Campus API to retrieve real-time daily menu items
+A Python Script to fetch specific meal menus for the Highlander Commons dining hall. It interacts with the Dine On Campus API to retrieve daily menu items
 
 ## Features
 
